@@ -11,3 +11,4 @@ matplotlib
 seaborn
 kaggle
 imbalanced-learn
+python-multipart
